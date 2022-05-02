@@ -756,7 +756,8 @@ All boxes in the center, gap between boxes is 3rem, the box will wrap in small s
     
 }
 
-/* because the image and content about DMU will appear in opposite position compare to SWU so I created another class and make it wrap-reverse */
+/* because the image and content about DMU will appear in opposite position compare to SWU 
+so I created another class and make it wrap-reverse */
 
 .about .row .about-col .about-dmu{
     display: flex;
