@@ -333,7 +333,8 @@ at the center of the image */
     margin-bottom: 3rem;
 }
 
-/* the content will display in flex box and will wrap perfect when change to mobile version in vertically way. Gap between video and text will be 5rem */
+/* the content will display in flex box and will wrap perfect when change to mobile version in vertically way. 
+Gap between video and text will be 5rem */
 .review .row{
     display: flex;
     align-items: center;
@@ -413,7 +414,8 @@ at the center of the image */
 
 /* 1st year course content */
 
-/* Set the course content to be in flex box, appear in center and when it appear in  mobile version it will wrap the content in sequence I ordered */
+/* Set the course content to be in flex box, appear in center and when it appears 
+In mobile version it will wrap the content in sequence I ordered */
 .course .row .course-col{
     display: flex;
     align-items: center;
@@ -448,7 +450,8 @@ at the center of the image */
 
 /* 2nd year course content */
 
-/* Set everything same as 1st year but flex-wrap will reverse. Because the image and text will appear opposite from the other two course details. But in mobile version I want the details appear in the same order */
+/* Set everything same as 1st year but flex-wrap will reverse. Because the image and text will appear opposite from the other two course details. 
+But in mobile version I want the details appear in the same order */
 
 .course .row .course-col .Second-year{
     display: flex;
@@ -507,7 +510,9 @@ at the center of the image */
 
 /* Idea and reference by YouTube channel "Mr. Web Designer" when he positions a lot of text boxes together  */
 
-/* All the class box inside box-container will be display in grid box. How many columns in one row will be autofit to the window. and gap betweeneach box will be 1.5rem */
+/* All the class box inside box-container will be display in grid box. 
+How many columns in one row will be autofit to the window.  
+Gap betweeneach box will be 1.5rem */
 .qualification .box-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
