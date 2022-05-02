@@ -964,6 +964,19 @@ h3{
     cursor: pointer;
 }
 
+/* Social media icons design and position */
+.footer .socials a{
+    color: black;
+    padding-right: 2.5%;
+    font-size: 3rem; 
+}
+
+/* Social media icons design when user hover */
+.footer .socials a:hover{
+    color: white;
+    cursor: pointer;
+}
+
 /* Universities logo setting */
 .footer .box{
     display: flex;
