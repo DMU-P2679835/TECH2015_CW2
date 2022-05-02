@@ -966,14 +966,16 @@ h3{
 
 /* Social media icons design and position */
 .footer .socials a{
-    color: black;
-    padding-right: 2.5%;
+    color: var(--black);
+    height: 6rem;
+    width: 6rem;
+    margin: 0 .3rem;
     font-size: 3rem; 
 }
 
 /* Social media icons design when user hover */
 .footer .socials a:hover{
-    color: white;
+    color: var(--white);
     cursor: pointer;
 }
 
