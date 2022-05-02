@@ -1155,7 +1155,7 @@ h3{
 
     /* @Footer Section */
     /* Adjust position of the social media icons */
-    .footer ul{
+    .footer .socials{
         margin-top: 2.5rem;
     }
 
