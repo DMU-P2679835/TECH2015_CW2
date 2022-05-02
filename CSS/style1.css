@@ -985,7 +985,7 @@ h3{
    Content at the center and font-size:2rem */
 .credit{
     text-align: center;
-    background: grey;
+    background: var(--grey);
     font-size: 2rem;
 }
 /*-------------- Footer Design ---------------*/
@@ -1157,6 +1157,9 @@ h3{
     /* Adjust position of the social media icons */
     .footer .socials{
         margin-top: 2.5rem;
+    }
+    .footer .socials a{ 
+        font-size: 4rem; 
     }
 
     /* Adjust position of the DMU logo */
