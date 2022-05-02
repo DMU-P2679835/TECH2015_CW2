@@ -952,19 +952,6 @@ h3{
 }
 
 /* Social media icons design and position */
-.footer ul li i{
-    color: black;
-    padding-right: 2.5%;
-    font-size: 3rem; 
-}
-
-/* Social media icons design when user hover */
-.footer ul li i:hover{
-    color: white;
-    cursor: pointer;
-}
-
-/* Social media icons design and position */
 .footer .socials a{
     color: var(--black);
     height: 6rem;
