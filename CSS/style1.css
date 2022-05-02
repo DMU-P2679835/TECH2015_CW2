@@ -569,6 +569,7 @@ Gap betweeneach box will be 1.5rem */
     margin: 30px;
 
 }
+/* Each letter in button will spacing from each other */
 .apply-button .button .btn:hover{
     letter-spacing: .3rem;
 }
