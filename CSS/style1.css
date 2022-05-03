@@ -42,7 +42,9 @@ html{
 }
 /*----------------------------------------------*/
 
-/* Scroll bar set */
+/* Scroll bar webkit from font-awesome
+It can custom the design on this webkit*/
+/* Scroll bar setting */
 html::-webkit-scrollbar{
     width: 1rem;
 }
@@ -52,7 +54,6 @@ html::-webkit-scrollbar-track{
 html::-webkit-scrollbar-thumb{
     background-color: var(--light-black);
 }
-/* Scroll bar set */
 
 /*----------------------------------------------*/
 
