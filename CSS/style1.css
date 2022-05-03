@@ -410,7 +410,8 @@ Gap between video and text will be 5rem */
     padding-bottom: 3rem;
 }
 
-/* Idea and reference by YouTube channel "Mr. Web Designer" when he positions the text beside the image */
+/* Idea and reference by YouTube channel "Mr. Web Designer" when he positions the text beside the image 
+url(https://www.youtube.com/watch?v=-dBzfndKwZo&list=PLJj3q3QElARCQsNKN8Zrwv0aOPOq1zKgC&index=3&t=4106s)*/
 
 /* 1st year course content */
 
@@ -508,7 +509,8 @@ But in mobile version I want the details appear in the same order */
 
 /*----- qualification detail section start -----*/
 
-/* Idea and reference by YouTube channel "Mr. Web Designer" when he positions a lot of text boxes together  */
+/* Idea and reference by YouTube channel "Mr. Web Designer" when he positions a lot of text boxes together  
+url(https://www.youtube.com/watch?v=0qu4fTFr26M&list=PLJj3q3QElARCQsNKN8Zrwv0aOPOq1zKgC&index=5&t=1890s)*/
 
 /* All the class box inside box-container will be display in grid box. 
 How many columns in one row will be autofit to the window.  
@@ -602,6 +604,8 @@ Gap betweeneach box will be 1.5rem */
 }
 /* --------------------------------- */
 
+/* Idea and reference by YouTube channel "Mr. Web Designer" @team page  
+url(https://www.youtube.com/watch?v=BWRvzEssNNc&list=PLJj3q3QElARCQsNKN8Zrwv0aOPOq1zKgC&index=7&t=2094s )*/
 
 /* each department section margin bottom is 5rem */
 .team .team-eng{
@@ -826,7 +830,8 @@ so I created another class and make it wrap-reverse */
 
 
 /*----Contact and Map part--------*/
-/* CSS setting are the same as when position img beside text */
+/* CSS setting are the same as when position img beside text 
+form using what have learned in TECH2015 lab 21&23*/
 
 /* content in this row will display in flex box
    Gap between boxes is 2rem, 
