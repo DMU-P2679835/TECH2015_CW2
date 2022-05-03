@@ -44,13 +44,15 @@ html{
 
 /* Scroll bar webkit from font-awesome
 It can custom the design on this webkit*/
-/* Scroll bar setting */
+/* Scroll bar width */
 html::-webkit-scrollbar{
     width: 1rem;
 }
+/* Scroll bar white track */
 html::-webkit-scrollbar-track{
     background-color: var(--white);
 }
+/* Scroll bar light-black color */
 html::-webkit-scrollbar-thumb{
     background-color: var(--light-black);
 }
